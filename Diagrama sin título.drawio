@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T03:42:03.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CxGZmZtCR0i0laOyXr2Z" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T02:21:44.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="huZBaT4gRRJmqZK9gQXu" version="23.1.6" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
-    <mxGraphModel dx="1134" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="1fdf3b25b50cf41e-10" value="NombreCiudadano" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;labelBackgroundColor=none;fontColor=#000000;" parent="1fdf3b25b50cf41e-9" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="j5on4QJgucdhLXqUFU4Y-1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1fdf3b25b50cf41e-9">
+        <mxCell id="j5on4QJgucdhLXqUFU4Y-1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;labelBackgroundColor=none;fontColor=#000000;" parent="1fdf3b25b50cf41e-9" vertex="1">
           <mxGeometry y="52" width="140" height="2" as="geometry" />
         </mxCell>
         <mxCell id="1fdf3b25b50cf41e-31" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;fontColor=default;strokeColor=#0B4D6A;" parent="1" source="1fdf3b25b50cf41e-11" target="17472293e6e8944d-4" edge="1">
